@@ -4,8 +4,10 @@
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
 }
-title{
-    font-size: large;
+p{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
 }
 body{
     background: #FFFFFF;
